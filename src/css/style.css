@@ -23,7 +23,7 @@ filter: blur(.1px);
     
 } 
 .navbar-light .navbar-toggler-icon {
-    background-image: url(/src/img/menu.svg);
+    background-image: url(src/img/menu.svg);
 }
 .navbar-light .navbar-nav .nav-link {
     color: white;
